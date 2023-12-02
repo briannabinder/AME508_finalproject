@@ -68,5 +68,5 @@ print(f"Stridor: {stridor}")
 print(f"Wheeze: {wheeze}")
 
 
-# label_file = "train/trunc_2019-07-31-10-20-16-L6_13_label.txt"
-# print(convert_label(label_file))
+label_file = "train/steth_20190128_09_29_27_label.txt"
+print(convert_label(label_file))
